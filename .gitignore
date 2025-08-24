@@ -3,3 +3,7 @@
 *.log
 *.sql
 *.sqlite
+*.db
+
+#Python stuff
+venv/
