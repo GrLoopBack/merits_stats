@@ -1,0 +1,5 @@
+{
+    "log_directory": "/home/yourname/patheToEDlogs/",
+    "database_name": "elite_data.db",
+    "sleep_time": "10"
+}
